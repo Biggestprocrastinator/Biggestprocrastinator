@@ -2,7 +2,7 @@
 
 ### ⚠️ This GitHub profile is no longer active. 
 
-All of my open-source projects, enterprise architecture deployments, and algorithmic repositories (including **DocParser AI**) have been permanently migrated to my new handle.
+All of my open-source projects,  architecture deployments, and  repositories have been permanently migrated to my new handle.
 
 ## 👉 [Click here to visit my active profile: @kratos-sec](https://github.com/kratos-sec)
 
@@ -12,6 +12,14 @@ All of my open-source projects, enterprise architecture deployments, and algorit
 
 **Looking for a specific project?**
 If you followed an old link to a repository from a resume or an old post, it has been moved to the new account. Please navigate to `github.com/kratos-sec` to find the updated repository.
+
+
+
+
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on an Augmented Pipeline for entity extraction from handwritten and complex documents.<br><br>🤝 I’m looking for help with API keys :(<br><br>🌱 I’m currently learning about Multimodal Vision models.<br><br>💬 Ask me about Hugging Face Spaces.<br><br>⚡ Fun fact: My parser once accurately identified a handwritten total on a gym receipt that three separate industrial OCR engines missed.
 
